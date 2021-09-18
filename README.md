@@ -6,7 +6,7 @@
 <br />
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="350px"/>
 
-Hi, I’m Utkarsh Ranjan, a passionate self-taught Competitive Programmer and Full Stack Web Developer 🌐  beginner level Designer 🎨, depending on what the project requires. I also love Graphic Designing. My passion for Gfx lies with dreaming up ideas and making the pages come true with elegant interfaces. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+Hi, I’m Utkarsh Ranjan, a Full Stack Web Developer 🌐  beginner level Designer 🎨, depending on what the project requires. I also love Graphic Designing. My passion for Gfx lies with dreaming up ideas and making the pages come true with elegant interfaces. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 
 I am a team player and love to discuss and solve coding problems. C is the main language I use for competitive coding. Currently trying to master Python and PHP.
 
