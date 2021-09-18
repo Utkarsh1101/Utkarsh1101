@@ -25,8 +25,7 @@ I am a team player and love to discuss and solve coding problems. C is the main 
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
 
 
-<br>
-</br>
+<br><br>
 
 ### 📊 Github Stats
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Utkarsh1101&show_icons=true&theme=radical"/>  
