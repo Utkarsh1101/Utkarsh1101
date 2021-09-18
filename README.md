@@ -1,5 +1,7 @@
 ## Hey Coders👋
-<a href='https://www.linkedin.com/in/utkarsh1101/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a> <br>
+<a href='https://www.linkedin.com/in/utkarsh1101/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+<a href="https://www.hackerrank.com/ur5351" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img height="25px" src="https://1.bp.blogspot.com/-lspFKSc7Gm0/XtEM5_CA9xI/AAAAAAAAb2s/cdReqJCGiYQuNcWdNmFycrj1LvVqbYVZACPcBGAYYCw/s200/hackerrank.png" width="25px" /></a>
+<br>
 ![](https://visitor-badge.glitch.me/badge?page_id=sayskar500.abhisheknaiidu)
 <br />
 
@@ -24,15 +26,13 @@ I am a team player and love to discuss and solve coding problems. C is the main 
 
 
 <br>
+</br>
+
+### 📊 Github Stats<br>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Utkarsh1101&show_icons=true&theme=radical"/>  
 
 
-### 📊 Github Stats
-<a href='https://github.com/Utkarsh1101/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/Utkarsh1101/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/Utkarsh1101/github-stats-transparent/output/generated/languages.svg)
-
-</a>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarsh1101&theme=radical" width="360px"/>
 
 <br>
 
