@@ -28,7 +28,7 @@ I am a team player and love to discuss and solve coding problems. C is the main 
 <br>
 </br>
 
-### 📊 Github Stats<br>
+### 📊 Github Stats
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Utkarsh1101&show_icons=true&theme=radical"/>  
 
 
